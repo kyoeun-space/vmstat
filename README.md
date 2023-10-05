@@ -5,5 +5,6 @@ Because it uses "pthread", it can be difficult to operate in environments with i
 # Example of operation
 Top: This code
 Bottom: Linux Commands
-![Untitled (2)](https://github.com/teachthegrace/vmstat/assets/122524815/85097126-2fc2-4e73-82cb-2c9a2fdfb4c8)
+![Untitled (2)](https://github.com/teachthegrace/vmstat/assets/122524815/f2a54606-43bb-4dab-83ec-49c40b6f0693)
+
 
